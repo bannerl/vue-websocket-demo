@@ -1,4 +1,4 @@
-# websocket
+# vue-websocket-demo
 
 ## Project setup
 ```
@@ -9,21 +9,7 @@ npm install
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
+### 开启node
 ```
-npm run build
+node server.js
 ```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
